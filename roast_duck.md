@@ -2,8 +2,8 @@ Ingredients
 -----------
 1 Roast Duck (5-6lbs)
 
-Glaze
-=====
+**Glaze**
+
 1/4 cup honey
 1/4 cup molasses
 3 Tbls. orange juice
