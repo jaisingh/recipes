@@ -4,11 +4,11 @@ Ingredients
 
 **Glaze**
 
-1/4 cup honey
-1/4 cup molasses
-3 Tbls. orange juice
-1 Tbls. soy sauce
-1 1/2 Tbls. Sriracha chili sauce (adjust to taste)
+* 1/4 cup honey
+* 1/4 cup molasses
+* 3 Tbls. orange juice
+* 1 Tbls. soy sauce
+* 1 1/2 Tbls. Sriracha chili sauce (adjust to taste)
 
 Directions
 ----------
