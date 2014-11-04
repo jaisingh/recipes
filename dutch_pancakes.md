@@ -1,13 +1,13 @@
 Ingredients
 -----------
 
-1 1/2 cups flour
-2 teaspoons sugar
-1 teaspoon baking powder
-1 teaspoon baking soda
-3 eggs
-1 tablespoon oil
-2 1/4 cups milk
+* 1 1/2 cups flour
+* 2 teaspoons sugar
+* 1 teaspoon baking powder
+* 1 teaspoon baking soda
+* 3 eggs
+* 1 tablespoon oil
+* 2 1/4 cups milk
 
 Directions
 ----------
